@@ -1,0 +1,227 @@
+body {
+	position: relative;
+}
+
+
+.navbar-default {
+  border: none;
+  font: 300 'Franklin Gothic Medium', sans-serif;
+}
+
+.test {
+	width: 800px;
+}
+
+.popover {
+	max-width: 50%;
+}
+
+.splash {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+
+#datetime {
+	color: gray;
+}
+
+#sidebar-wrapper {
+	font: 200 16px 'Franklin Gothic Medium', sans-serif;
+}
+
+
+button.btn.btn-link.btn-inline { 
+  padding: 0px;
+	position: relative;
+	top: -2px;
+					}
+
+.abstract, figure figcaption, .lessons-for-engagement {
+	margin-bottom: 4%;
+	padding-bottom: 3%;
+	border-bottom: 1px solid rgb(150, 150, 150);
+}
+
+.lessons-for-engagement { 
+	border-top: 1px solid rgb(150, 150, 150);
+	margin-top: 4%;
+	padding-top: 2%;
+									}
+
+.aside {
+	margin-top: 50px;
+}
+
+
+figure figcaption {
+  width: 85%;
+  font-weight: bold;
+}
+
+.lessons {
+	margin-top: 0px;
+}
+
+.btn {
+	white-space: normal;
+}
+
+.aside p, button {
+	background-color: #fff;
+	color: gray;
+	font: 18px/22px 'Franklin Gothic Medium', sans-serif;
+}
+
+.positionning--button,
+.positionning--button-2,
+.positionning--button-3,
+.positionning--button-4,
+.positionning--button-5,
+.positionning--blockquote-1 {
+ 	position: relative;
+  left: -1em;
+  color: #03A9F4;
+}
+.positionning--button {
+ top: -7em;
+}
+
+.positionning--button-2 {
+	top: 12em;
+}
+
+.positionning--button-4 { bottom: -5.75em;}
+.positionning--button-5 { bottom: 3em;}
+.positionning--blockquote-1 { bottom: 47em; color: #333;}
+
+.aside p {
+	color: black;
+}
+
+.aside-img {
+	margin: 0 auto;
+	max-width: 50%;
+}
+
+blockquote {
+	font: 600 24px/34px 'Garamond', serif;
+}
+
+blockquote {
+	/*font: 600 20px/28px 'Garamond', serif;*/
+	font: 600 16px/24px 'Garamond', serif;
+  text-align: justify;
+  word-spacing: -1px;
+}
+.blockquote {
+	font: 600 20px/28px 'Garamond', serif;
+	text-align: left;
+  word-spacing: normal;
+}
+
+.blockquote p {
+	color: gray;
+}
+
+.blockquote a, .blockquote p {
+	position: relative;
+  top: 10px;
+}
+
+.test p, .popover, 
+button.btn.btn-link.btn-inline {
+ font: 200 18px/25px 'Garamond', serif;
+}
+
+ aside p,  .blockquote p,
+ blockquote a {
+font: 600 16px/24px 'Garamond', serif;
+}
+
+figcaption {
+	font: 300 16px/20px 'Garamond', serif;
+	color: gray;
+	margin-bottom: 20px;
+}
+
+.popover-content blockquote {
+	color: gray;
+	font: 400 20px/24px 'Garamond', serif;
+}
+
+
+.small-caption {
+	font: 200 14px 'Garamond', serif;
+	color: #adadad;
+	line-height: 110%;
+	margin-top: 15px;
+	width: 150px;
+}
+
+.img-sidebar {
+	max-width:95%;
+}
+.img-body {
+	margin-top:2%;
+	max-width:85%;
+	margin-bottom:3%;
+}
+
+/* Components */
+ .text-center { text-align: center }
+
+ .little-box {
+ 	width: 133px;
+ 	height: 136px;
+ }
+ .color--black { color: #000; }
+
+.number-1--4{
+text-align: center;
+font-size: 4em !important;
+margin-top: 0.5em;
+margin-bottom: 20px;
+}
+
+button em {
+	font-size: 14px;
+
+}
+
+.relative-center {
+position: relative;
+left: 25px;
+}
+
+.lesson--1 {
+	line-height: 0;
+	font-family: 'Garamont' serif;
+}
+
+span.glyphicon.glyphicon-new-window {
+	color: #03A9F4;
+}
+
+.img-test {
+	max-width: 95%;
+}
+blockquote p:before, 
+blockquote a:before {
+	content: '\2014 \00A0'
+}
+
+p.itl { 
+  font-family: 'Garamond', serif;
+  font-size: 20px; 
+  line-height: 150%;
+  font-style: italic;
+  word-spacing: 1px;
+  letter-spacing: 0.75px;
+}
+
+
